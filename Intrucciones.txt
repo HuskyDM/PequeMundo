@@ -1,0 +1,95 @@
+Mi pequeño Mundo
+Autor:Javier Fernandez
+Carne:B32540
+
+Instrucciones----------------------------------------
+
+En el juego existen cuatro clases de objetos, consumidores,
+productores, bienes y materia. Estos interactuan entre si
+por medio de metodos y de contenedores en STL.
+
+Consumidores: Solo pueden comprar, poseen un capital
+y un contenedor de productos comprados
+
+Productores: Pueden producir productos siempre y
+cuando poseean la materia necesaria en su inventario
+(un vector de materia). Pueden venderle a otros 
+consumidores.
+
+Bienes: Son objetos que poseen un precio y un
+vector de requerimentos. Se le puede definir
+un requerimento para se producido.
+
+Materia: Unicamente posee nombre, pero para
+la creacion de productos debe de ser definido.
+
+Esta version de mi pequeño mundo NO utiliza
+metodos indicados por el usuario.En vez todo
+esta completamente automatizado y el usuario
+debe de moverse a travez de los menus, cada uno
+con su propia funcion, para hacer funcionar el
+mundo. Esto es un beneficio ya que no hay manera
+actual que el juego se caiga al introducir 
+una variable equivocada. 
+
+A continuacion las funciones del menu.
+
+1. Crear Consumidor
+Crea un consumidor con un capital inicial y un nombre,
+se guarda en el vector de consumidores.
+
+2. Crear productor
+
+Crea un productor con un capital inicial y un nombre,
+se guarda en el vector de productores
+
+3. Crear Bien
+
+Declara un bien y se le asigna un nombre, un precio
+y un requerimento. Se guarda en el vector de bienes.
+
+4. Crear materia
+
+Crea material, unicamente necesita nombre, se guarda
+en el vector de materiales
+
+5. Comprar a Productor 
+
+Escoge a un consumidor y a un productor para realizar una compra,
+esta es exitosa si el productor posee el producto a comprar y
+el consumidor el capital necesario. El producto entonces
+es guardado en el inventario del consumidor.
+
+
+6.Asignar Capital 
+
+Asigna o aumenta el capital de un productor o un consumidor,
+para ser exitoso estos deben de existir.
+
+7,Asignar Material 
+
+Le asigna un material a un productor, ambos ya existentes, y lo
+guarda en el inventario del productor.
+
+8.Mostrar 
+muestra los vectores de Consumidores, Productores, Bienes o Materiales
+
+9.Ayuda
+Describe el programa
+
+10.=Asignar Bien a Productor 
+
+Crea un bien que se guarda en el inventario del productor siempre y cuando
+este poseea el material requerido
+
+0=Guardar/Cargar o Salir
+Permite guardar el juego, cargar una partida o salir del programa
+
+Limitaciones, bugs----------------------------------------------------
+Si se han creado varios productos Mostrar puede mostrar los requerimentos
+de los productos anteriores
+
+Cargar actualmente no hace nada
+
+Es posible que comprar a productor no funcione si el consumidor actual no fue
+el ultimo creado.

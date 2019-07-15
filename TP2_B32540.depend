@@ -1,0 +1,213 @@
+# depslib dependency file v1.0
+1464559977 source:c:\users\javier\desktop\tp2_b32540\bienes.cpp
+	"Bienes.h"
+	<string>
+	<vector>
+
+1464555664 c:\users\javier\desktop\tp2_b32540\bienes.h
+	"Materiales.h"
+	<vector>
+	<string>
+
+1463864808 source:c:\users\javier\desktop\tp2_b32540\consumidores.cpp
+	"Consumidores.h"
+	<vector>
+	<string>
+
+1464827545 c:\users\javier\desktop\tp2_b32540\consumidores.h
+	<vector>
+	<string>
+	"Bienes.h"
+	"Productores.h"
+
+1464663675 source:c:\users\javier\desktop\tp2_b32540\main.cpp
+	<iostream>
+	<vector>
+	<stdlib.h>
+	<fstream>
+	<ostream>
+	<istream>
+	<sstream>
+	"Consumidores.h"
+	"Productores.h"
+	"Bienes.h"
+	"Materiales.h"
+
+1464554969 source:c:\users\javier\desktop\tp2_b32540\productores.cpp
+	"Productores.h"
+	"Materiales.h"
+	"Bienes.h"
+	<string>
+
+1464827545 c:\users\javier\desktop\tp2_b32540\productores.h
+	<string>
+	<vector>
+	"Bienes.h"
+	"Materiales.h"
+
+1464554969 c:\users\javier\desktop\tp2_b32540\materiales.h
+	<string>
+
+1464554969 source:c:\users\javier\desktop\tp2_b32540\materiales.cpp
+	"Materiales.h"
+	<string>
+
+1464559977 source:c:\users\javier\documents\compu\tp2_b32540\bienes.cpp
+	"Bienes.h"
+	<string>
+	<vector>
+
+1464555664 c:\users\javier\documents\compu\tp2_b32540\bienes.h
+	"Materiales.h"
+	<vector>
+	<string>
+
+1464554969 c:\users\javier\documents\compu\tp2_b32540\materiales.h
+	<string>
+
+1463864808 source:c:\users\javier\documents\compu\tp2_b32540\consumidores.cpp
+	"Consumidores.h"
+	<vector>
+	<string>
+
+1464827545 c:\users\javier\documents\compu\tp2_b32540\consumidores.h
+	<vector>
+	<string>
+	"Bienes.h"
+	"Productores.h"
+
+1464827545 c:\users\javier\documents\compu\tp2_b32540\productores.h
+	<string>
+	<vector>
+	"Bienes.h"
+	"Materiales.h"
+
+1464827544 source:c:\users\javier\documents\compu\tp2_b32540\main.cpp
+	<iostream>
+	<vector>
+	<stdlib.h>
+	<fstream>
+	<ostream>
+	<istream>
+	<sstream>
+	"Consumidores.h"
+	"Productores.h"
+	"Bienes.h"
+	"Materiales.h"
+
+1464554969 source:c:\users\javier\documents\compu\tp2_b32540\materiales.cpp
+	"Materiales.h"
+	<string>
+
+1464554969 source:c:\users\javier\documents\compu\tp2_b32540\productores.cpp
+	"Productores.h"
+	"Materiales.h"
+	"Bienes.h"
+	<string>
+
+1464559977 source:c:\users\javier\documents\compu\programacion 2\tp2_b32540\bienes.cpp
+	"Bienes.h"
+	<string>
+	<vector>
+
+1464555664 c:\users\javier\documents\compu\programacion 2\tp2_b32540\bienes.h
+	"Materiales.h"
+	<vector>
+	<string>
+
+1464554969 c:\users\javier\documents\compu\programacion 2\tp2_b32540\materiales.h
+	<string>
+
+1463864808 source:c:\users\javier\documents\compu\programacion 2\tp2_b32540\consumidores.cpp
+	"Consumidores.h"
+	<vector>
+	<string>
+
+1464827545 c:\users\javier\documents\compu\programacion 2\tp2_b32540\consumidores.h
+	<vector>
+	<string>
+	"Bienes.h"
+	"Productores.h"
+
+1464827545 c:\users\javier\documents\compu\programacion 2\tp2_b32540\productores.h
+	<string>
+	<vector>
+	"Bienes.h"
+	"Materiales.h"
+
+1464554969 source:c:\users\javier\documents\compu\programacion 2\tp2_b32540\materiales.cpp
+	"Materiales.h"
+	<string>
+
+1464554969 source:c:\users\javier\documents\compu\programacion 2\tp2_b32540\productores.cpp
+	"Productores.h"
+	"Materiales.h"
+	"Bienes.h"
+	<string>
+
+1466982531 source:c:\users\javier\documents\compu\programacion 2\tp2_b32540\main.cpp
+	<iostream>
+	<vector>
+	<stdlib.h>
+	<fstream>
+	<ostream>
+	<istream>
+	<sstream>
+	"Consumidores.h"
+	"Productores.h"
+	"Bienes.h"
+	"Materiales.h"
+
+1464559977 source:c:\users\jay\documents\compu\2016\semestre1\programacion 2\tp2_b32540\bienes.cpp
+	"Bienes.h"
+	<string>
+	<vector>
+
+1464555664 c:\users\jay\documents\compu\2016\semestre1\programacion 2\tp2_b32540\bienes.h
+	"Materiales.h"
+	<vector>
+	<string>
+
+1464554969 c:\users\jay\documents\compu\2016\semestre1\programacion 2\tp2_b32540\materiales.h
+	<string>
+
+1463864808 source:c:\users\jay\documents\compu\2016\semestre1\programacion 2\tp2_b32540\consumidores.cpp
+	"Consumidores.h"
+	<vector>
+	<string>
+
+1464827545 c:\users\jay\documents\compu\2016\semestre1\programacion 2\tp2_b32540\consumidores.h
+	<vector>
+	<string>
+	"Bienes.h"
+	"Productores.h"
+
+1464827545 c:\users\jay\documents\compu\2016\semestre1\programacion 2\tp2_b32540\productores.h
+	<string>
+	<vector>
+	"Bienes.h"
+	"Materiales.h"
+
+1466982531 source:c:\users\jay\documents\compu\2016\semestre1\programacion 2\tp2_b32540\main.cpp
+	<iostream>
+	<vector>
+	<stdlib.h>
+	<fstream>
+	<ostream>
+	<istream>
+	<sstream>
+	"Consumidores.h"
+	"Productores.h"
+	"Bienes.h"
+	"Materiales.h"
+
+1464554969 source:c:\users\jay\documents\compu\2016\semestre1\programacion 2\tp2_b32540\materiales.cpp
+	"Materiales.h"
+	<string>
+
+1464554969 source:c:\users\jay\documents\compu\2016\semestre1\programacion 2\tp2_b32540\productores.cpp
+	"Productores.h"
+	"Materiales.h"
+	"Bienes.h"
+	<string>
+
